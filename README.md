@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**xPolaar/xPolaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Polaar and I'm a software engineer.
 
-Here are some ideas to get you started:
+- 🔭 **I’m currently working on**
+  * [Enpoint Community](https://discord.gg/zgf7jQPV6e), a Community and Server SA-MP. 
+   
+- 📫 **How to reach me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Instagram: [@trr.sixb0y](https://instagram.com)
+  
+  Discord: [xPolaar#2730](https://discord.com/users/972352313865953330)
+ 
+  Website: [polaar.com](https://polaar.com)
+  
+- **Profile**
+    <p align="left">
+     <img src="https://lanyard.cnrad.dev/api/972352313865953330">
+    </p>
+
+- **Discord Server**
+   <p align="left">
+   <img src="https://discordapp.com/api/guilds/1018602060712783894/widget.png?style=banner4" alt="Discord Banner 4">
+   </p>
+
+- **GitHub Stats**
+
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=xPolaar&theme=blueberry&count_private=true&hide_border=true&line_height=25)
