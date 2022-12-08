@@ -7,7 +7,7 @@ My name is Polaar and I'm a software engineer.
    
 - 📫 **How to reach me:**
 
-  Instagram: [@trr.sixb0y](https://instagram.com)
+  Instagram: [@trr.sixb0y](https://instagram.com/trr.sixb0y)
   
   Discord: [xPolaar#2730](https://discord.com/users/972352313865953330)
  
