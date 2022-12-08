@@ -11,7 +11,7 @@ My name is Polaar and I'm a software engineer.
   
   Discord: [xPolaar#2730](https://discord.com/users/972352313865953330)
  
-  Website: [polaar.com](https://polaar.com)
+  Website: [mepolaar.com](https://mepolaar.com)
   
 - **Profile**
     <p align="left">
