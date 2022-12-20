@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Polaar and I'm a software engineer.
+My name is pineapple and I'm a software engineer.
 
 - 🔭 **I’m currently working on**
   * [Enpoint Community](https://discord.gg/zgf7jQPV6e), a Community and Server SA-MP. 
@@ -9,9 +9,9 @@ My name is Polaar and I'm a software engineer.
 
   Instagram: [@trr.sixb0y](https://instagram.com/trr.sixb0y)
   
-  Discord: [xPolaar#2730](https://discord.com/users/972352313865953330)
+  Discord: [pineapple#0730](https://discord.com/users/972352313865953330)
  
-  Website: [mepolaar.com](https://mepolaar.com)
+  Website: [about.pineapple.com](https://about.pineapple.com)
   
 - **Profile**
     <p align="left">
