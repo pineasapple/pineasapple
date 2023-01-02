@@ -15,7 +15,7 @@ My name is pineapple and I'm a software engineer.
   
 - **Profile**
     <p align="left">
-     <img src="https://lanyard.cnrad.dev/api/972352313865953330">
+     <img src="https://lanyard.cnrad.dev/api/852432035419127849">
     </p>
 
 - **Discord Server**
