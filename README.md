@@ -25,4 +25,4 @@ My name is pineapple and I'm a software engineer.
 
 - **GitHub Stats**
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=xPolaar&theme=blueberry&count_private=true&hide_border=true&line_height=25)
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=pineasapple&theme=blueberry&count_private=true&hide_border=true&line_height=25)
